@@ -1,3 +1,3 @@
 # Portfolio
 Introduce about myself
-67051101portfolio.netlify.app
+url = "https://67051101portfolio.netlify.app/"
